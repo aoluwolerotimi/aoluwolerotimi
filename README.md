@@ -1,7 +1,7 @@
 ### Hi there, I'm Angel 👋🏾
 #### 🫀 I'm passionate about leveraging data to understand people better
 #### 💻 I'm a [Masters in Management and Analytics](https://www.mcgill.ca/desautels/programs/mma/program-overview) student at McGill University 
-#### 💼 I [worked in tech consulting](https://www.linkedin.com/in/aoluwole-rotimi/) for over 3 years before beginning my Masters
+#### 💼 I [worked in tech consulting](https://www.linkedin.com/in/aoluwole-rotimi/) for over 3 years before beginning my analytics studies
 #### 🧗‍♀️ I love to go indoor rock climbing in my spare time
 
 #### Through my github, I'm documenting my journey in applying data analytics to human-centered design. Thanks for visiting! 
